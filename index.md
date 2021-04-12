@@ -33,6 +33,6 @@ A repository containing download links to all past Worlds hosted as part of the 
 <br>
 **Last Modified** 4/11/21
 <br>
-![](https://i.imgur.com/Kurvtho.png)
+<img src="https://i.imgur.com/Kurvtho.png" width="400"/>
 <br>
 **Link** <a href="https://drive.google.com/file/d/1mKw_IPUNTtGM1AicZmZ75uEaifnIdfnV/view?usp=sharing">https://drive.google.com/file/d/1mKw_IPUNTtGM1AicZmZ75uEaifnIdfnV/view?usp=sharing</a>
