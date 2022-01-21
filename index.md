@@ -37,6 +37,15 @@ A repository containing download links to all past Worlds hosted as part of the 
 <br>
 **Link** <a href=""></a>
 
+### Capture The Flag
+**Created** 1/18/22
+<br>
+**Last Modified** 1/20/22
+<br>
+![](https://i.imgur.com/sFXxdAB.png)
+<br>
+**Link** <a href="https://drive.google.com/file/d/1CJX-Rg-rCupILbCBqF85o0yU_rHIz-zI/view?usp=sharing">https://drive.google.com/file/d/1CJX-Rg-rCupILbCBqF85o0yU_rHIz-zI/view?usp=sharing</a>
+
 ### Skyfactory
 **Created** 1/1/21
 <br>
